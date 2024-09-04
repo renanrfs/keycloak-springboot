@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "token.converter",
+      "type": "org.pcs.springboot.keycloak.security.TokenConverterProperties",
+      "sourceType": "org.pcs.springboot.keycloak.security.TokenConverterProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "token.converter.resource-id",
+      "type": "java.lang.String",
+      "sourceType": "org.pcs.springboot.keycloak.security.TokenConverterProperties"
+    }
+  ],
+  "hints": []
+}
